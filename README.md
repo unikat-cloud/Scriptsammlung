@@ -1,4 +1,4 @@
-# Script-Sammlung für Windows & Linux
+# Script-Sammlung für Windows & Debian
 
 Willkommen auf unserer GitHub-Repository-Seite! Hier sammeln wir eine Vielzahl an nützlichen Skripten für Windows- und Linux-Systeme. Ziel ist es, eine zentrale Anlaufstelle für automatisierte Lösungen, hilfreiche Tools und nützliche Hacks zu schaffen, die sowohl im privaten Alltag als auch im geschäftlichen Umfeld eingesetzt werden können.
 
@@ -31,7 +31,6 @@ Kurz gesagt:
 
 Du hast eigene Skripte entwickelt, die du teilen möchtest? Das freut uns sehr! Es gibt mehrere Möglichkeiten, Teil dieser Sammlung zu werden:
 
-- **GitHub**: Du kannst deine Skripte direkt per Pull-Request oder Issue hinzufügen.  
 - **E-Mail**: Sende deine Skripte und Anmerkungen an **tickets@unikat-cloud.de**.
 
 Bitte achte bei der Einreichung auf eine klare Dokumentation, um anderen Nutzern das Verstehen und Anwenden zu erleichtern.
